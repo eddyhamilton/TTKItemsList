@@ -233,16 +233,6 @@
     "data": {
       "isShortcut": true
     },
-    "description": "Purchases the part specified and queues it for surgery on your pawn.",
-    "name": "Surgery",
-    "usage": "!surgery <item> <quantity/bodypart>",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true
-    },
     "description": "Adds a trait for your pawn.",
     "name": "Add trait",
     "usage": "!trait",
