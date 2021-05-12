@@ -6,12 +6,6 @@
     "version": "1.0.4.0"
   },
   {
-    "author": "pelador",
-    "name": "RimPlas (Continued)",
-    "steamId": "2194993727",
-    "version": "1.0.6.0"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -22,24 +16,14 @@
     "name": "Harvest Organs Post Mortem"
   },
   {
-    "author": "Sicafe",
-    "name": "[SC]Thrumbo Horn Weapons"
-  },
-  {
-    "author": "Bullet Magnet",
-    "name": "Less-Lethal Defence System"
-  },
-  {
     "author": "Xedos",
     "name": "Hive Rifle"
   },
   {
     "author": "Andrew Raphael Lukasik",
-    "name": "Allow Dead Animals"
-  },
-  {
-    "author": "Y1NaLin",
-    "name": "Amrita - Age Reversing Serum"
+    "name": "Allow Dead Animals",
+    "steamId": "2403873031",
+    "version": "1.0.0.0"
   },
   {
     "author": "miyamiya",
@@ -84,12 +68,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Blazen_Rock, xrushha, legodude17, Kitsune",
-    "name": "Heavy Melee Weapons",
-    "steamId": "2418407014",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki, AveryTheKitty, Taranchuk",
     "name": "Vanilla Weapons Expanded - Coilguns"
   },
@@ -108,32 +86,16 @@
     "name": "Almost There!"
   },
   {
+    "author": "pelador",
+    "name": "Proximity (Continued)"
+  },
+  {
     "author": "MrKociak",
     "name": "More Archotech Garbage Reupload"
   },
   {
     "author": "Inglix",
     "name": "Apparel Tainted Only When Corpse Rots"
-  },
-  {
-    "author": "AobaKuma",
-    "name": "Fortifications - Neolithic"
-  },
-  {
-    "author": "AobaKuma OttersHoldHands iforgotmysocks",
-    "name": "Camping Tent",
-    "steamId": "2407128339",
-    "version": "1.8.0.0"
-  },
-  {
-    "author": "Mehni",
-    "name": "More Faction Interaction (Continued)",
-    "steamId": "2379076640",
-    "version": "1.0.7.0"
-  },
-  {
-    "author": "Jascha Ephraim",
-    "name": "Endless Rimworld"
   },
   {
     "author": "Uuugggg",
@@ -152,20 +114,10 @@
     "name": "Vanilla Apparel Expanded"
   },
   {
-    "author": "K",
-    "name": "PsiTech",
-    "steamId": "2078892294",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "PorqueNoLosDos (Updated By CrashM)",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
     "version": "0.0.0.0"
-  },
-  {
-    "author": "Abyss",
-    "name": "Prisoner Capture and Manipulation"
   },
   {
     "author": "PinoChemicali",
@@ -182,20 +134,6 @@
     "version": "1.0.1.0"
   },
   {
-    "author": "spoonshortage",
-    "name": "A Dog Said... Animal Prosthetics"
-  },
-  {
-    "author": "Orion",
-    "name": "Hospitality"
-  },
-  {
-    "author": "Hatti",
-    "name": "QualityBuilder",
-    "steamId": "754637870",
-    "version": "1.0.14"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "Defensive Positions"
   },
@@ -210,16 +148,8 @@
     "name": "Simple sidearms"
   },
   {
-    "author": "Falconne",
-    "name": "Heat Map"
-  },
-  {
     "author": "ItsComcastic",
     "name": "Haul to Stack"
-  },
-  {
-    "author": "cucumpear",
-    "name": "AnimalCollabProj ADS Patch"
   },
   {
     "author": "Roolo",
@@ -283,7 +213,7 @@
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
-    "version": "1.0.7751.22015"
+    "version": "1.0.7789.9895"
   },
   {
     "author": "targhetti",
@@ -306,20 +236,6 @@
     "version": "1.0.0"
   },
   {
-    "author": "cucumpear, Azrael",
-    "name": "Animal Variety Coats"
-  },
-  {
-    "author": "MarvinKosh",
-    "name": "Sometimes Raids Go Wrong",
-    "steamId": "1551336515",
-    "version": "1.0.7603.566"
-  },
-  {
-    "author": "Telkir",
-    "name": "[T] MoreFloors"
-  },
-  {
     "author": "Mlie",
     "name": "AnimalHarvestingSpot (Continued)"
   },
@@ -330,34 +246,10 @@
     "version": "1.0.7468.14677"
   },
   {
-    "author": "Proxyer",
-    "name": "[1.2] Tiny Table"
-  },
-  {
     "author": "VouLT",
     "name": "Better Pawn Control",
     "steamId": "1541460369",
     "version": "0.5.0.0"
-  },
-  {
-    "author": "Dylan",
-    "name": "Animal Gear",
-    "steamId": "1541438907",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Dylan",
-    "name": "Animal Gear Basic"
-  },
-  {
-    "author": "InsertKey",
-    "name": "ItemListSelector"
-  },
-  {
-    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
-    "name": "[KV] Faction Control",
-    "steamId": "1509102551",
-    "version": "1.0.7546.40571"
   },
   {
     "author": "Jaxe",
@@ -388,12 +280,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Weilbyte",
-    "name": "Snap Out!",
-    "steamId": "1319782555",
-    "version": "0.7.3"
-  },
-  {
     "author": "Ogre",
     "name": "OgreStack",
     "steamId": "1447140290",
@@ -418,10 +304,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "NEPH, Maxim",
-    "name": "Utility Columns"
-  },
-  {
     "author": "Linkolas",
     "name": "Stabilize"
   },
@@ -432,26 +314,10 @@
     "version": "2.0.0.0"
   },
   {
-    "author": "Spdskatr, CaesarV6",
-    "name": "Damage Indicators [1.2]",
-    "steamId": "2016331497",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "v1.0: DrCarl, v1.1+: Lt.Bob",
-    "name": "Preemptive Strike (Fork)",
-    "steamId": "2056230561",
-    "version": "1.1.5.0"
-  },
-  {
     "author": "Oskar Potocki, LimeTreeSnake, Kikohi",
     "name": "Vanilla Factions Expanded - Settlers",
     "steamId": "2052918119",
     "version": "1.1.0.0"
-  },
-  {
-    "author": "Infernal Pixel Studios",
-    "name": "Advanced Munitions"
   },
   {
     "author": "Oskar Potocki, Trunken",
@@ -460,12 +326,6 @@
   {
     "author": "OskarPotocki, Atlas, Kikohi",
     "name": "Vanilla Furniture Expanded - Spacer Module"
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan",
-    "name": "Vanilla Factions Expanded - Medieval",
-    "steamId": "2023513450",
-    "version": "1.0.5.0"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson",
@@ -484,10 +344,6 @@
     "name": "Vanilla Weapons Expanded - Laser"
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Australia"
-  },
-  {
     "author": "Oskar Potocki, Trunken, XeoNovaDan",
     "name": "Vanilla Furniture Expanded - Security",
     "steamId": "1845154007",
@@ -504,24 +360,8 @@
     "name": "Vanilla Animals Expanded — Ice Sheet"
   },
   {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Animals Expanded — Cats and Dogs"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Furniture Expanded - Props and Decor"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Animals Expanded — Desert"
-  },
-  {
     "author": "Oskar Potocki, Trunken",
     "name": "Vanilla Armour Expanded"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Animals Expanded — Extreme Desert"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson",
@@ -584,10 +424,6 @@
   {
     "author": "Mlie",
     "name": "Less Arbitrary Surgery (Continued)"
-  },
-  {
-    "author": "CodeOptimist",
-    "name": "Jobs of Opportunity (While You're Up)"
   },
   {
     "author": "Skullywag, Broken Valkyrie, rselbo",
@@ -678,6 +514,18 @@
     "name": "Expanded Prosthetics and Organ Engineering"
   },
   {
+    "author": "Fluffy",
+    "name": "Medical Tab",
+    "steamId": "715565817",
+    "version": "3.4.91"
+  },
+  {
+    "author": "Sarg, AFriend, milon, Skullywag and kaptain_kavern",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "SineSwiper",
     "name": "Xenobionic Patcher"
   },
@@ -690,18 +538,10 @@
     "name": "No Sympathy for Prisoners"
   },
   {
-    "author": "neitsa",
-    "name": "Prepare Landing"
-  },
-  {
     "author": "Jaxxa",
     "name": "ED-Embrasures",
     "steamId": "722085442",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "KingDolphinGuy",
-    "name": "Neuter Animals"
   },
   {
     "author": "Mal'Garon",
@@ -718,14 +558,6 @@
     "version": "2.1.7461.31480"
   },
   {
-    "author": "DrCarl",
-    "name": "Preemptive Strike"
-  },
-  {
-    "author": "Wemd",
-    "name": "[WD] Expanded Artillery"
-  },
-  {
     "author": "Neptimus7",
     "name": "Progress Renderer",
     "steamId": "2010777010",
@@ -734,10 +566,6 @@
   {
     "author": "Razor 2.3",
     "name": "Auto-Cut Blight"
-  },
-  {
-    "author": "NukaFrog",
-    "name": "Additional Verb Mod"
   },
   {
     "author": "Linq",
@@ -764,5 +592,107 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "5.0.3.2"
+  },
+  {
+    "author": "Roolo",
+    "name": "What the hack?!"
+  },
+  {
+    "author": "Oskar Potocki, Erin, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Endangered",
+    "steamId": "2366589898",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Plants Expanded"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk, Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "gguake",
+    "name": "Simple Search Bar"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Skylights",
+    "steamId": "833899765",
+    "version": "1.5.1471"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Follow Me",
+    "steamId": "715759739",
+    "version": "4.9.95"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi, Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Insectoids",
+    "steamId": "2149755445",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "dhultgren",
+    "name": "Smarter Construction"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Map Reroll"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
+  },
+  {
+    "author": "Sam",
+    "name": "Tilled Soil"
+  },
+  {
+    "author": "Haecriver",
+    "name": "Injured Carry"
+  },
+  {
+    "author": "JBloodthorn",
+    "name": "No Lazy Doctors"
+  },
+  {
+    "author": "Atlas",
+    "name": "Medicines+",
+    "steamId": "2347448943",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] Consolidated Traits",
+    "steamId": "1507384362",
+    "version": "1.0.7516.1272"
+  },
+  {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.14"
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "1.0.0.0"
   }
 ]
